@@ -26,5 +26,5 @@ let isLoggedIn = false //Boolean data types
 console.log(typeof "Bhuppi Here");
 console.log(typeof name);
 console.log(typeof age );
-console.log(typeof null); // type of null is object
+console.log(typeof null); // type of null is object because this is types of JS
 console.log(typeof undefined); // type of undefined is undefined
