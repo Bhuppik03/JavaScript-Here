@@ -1,7 +1,7 @@
 // constant are only one way declare if you declare the const, use the const keyword
 const studentId = 12345 
 
-/*if you are use a const variable during the declaration variable and ater that you can not changed the values
+/*if you are use a const variable during the declaration variable and after that you can not changed the values
 */
 // studentId = 121221 //Not allowed 
 

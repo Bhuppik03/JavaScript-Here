@@ -1,7 +1,7 @@
 console.log("Bhuppi Here")
 /*
 What is JavaScript?
-JS is a programming language.We use it to give instructions to the compuetr.
+JS is a programming language.We use it to give instructions to the computer.
 
 input(code) ----> Computer ----> output
 1. Instruction give the (in the form of code) and computer give the output
