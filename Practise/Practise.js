@@ -60,3 +60,8 @@ const cal = function(len, wid, perform){
 
 console.log(cal(5, 5, rectangle));
 console.log(cal(5, 5, triangle));
+
+
+/* 3.Multiply Each element by 2 and return the only those element which are greater than 10? */
+
+let arr1 = [2, 3, 4, 6, 10]; // Output : 4, 6, 8, 12, 20
